@@ -41,6 +41,16 @@ An interactive sales dashboard built in Excel using the Superstore dataset.
 - Conditional Formatting
 - Dashboard Design
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- KPI Development
+- Pivot Tables
+- Business Analysis
+- Data Storytelling
+  
 #### Dataset
 Superstore Sales Dataset
 
