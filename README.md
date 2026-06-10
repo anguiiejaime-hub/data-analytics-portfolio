@@ -54,6 +54,31 @@ An interactive sales dashboard built in Excel using the Superstore dataset.
 #### Dataset
 Superstore Sales Dataset
 
+## SQL Analysis
+SQL queries are available in:
+
+- superstore_analysis.sql
+
+Business Questions Answered:
+
+- What are the total sales, total orders, and average order value?
+- Which regions generate the most revenue?
+- What percentage of total revenue does each region contribute?
+- Which product categories generate the highest sales?
+- Who are the top customers by total sales?
+- How have sales evolved over time?
+
+- ## SQL Concepts Used
+  
+- Aggregations (SUM, COUNT, AVG)
+- GROUP BY
+- ORDER BY
+- LIMIT
+- Subqueries
+- HAVING
+- CASE WHEN
+- Window Functions (RANK)
+- EXTRACT
 ## About Me
 
 I am an aspiring Data Analyst currently developing projects in:
