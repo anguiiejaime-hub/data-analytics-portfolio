@@ -6,14 +6,13 @@ Hello, I'm Anguie.
 
 This repository contains data analytics projects where I use:
 
-- Python
 - SQL
 - Power BI
 - Excel
 
 ## Projects
 
-### 1. Superstore Sales Dashboard
+### 1. Superstore Sales Dashboard (Excel)
 
 An interactive sales dashboard built in Excel using the Superstore dataset.
 
@@ -79,6 +78,24 @@ Business Questions Answered:
 - CASE WHEN
 - Window Functions (RANK)
 - EXTRACT
+
+- ## Power BI Dashboard
+
+Interactive sales dashboard built in Power BI.
+
+### Key Insights
+- Sales performance by region
+- Monthly sales trend
+- Category distribution
+- Segment analysis
+- KPI monitoring
+
+### Tools Used
+- Power BI
+- DAX
+- Data Modeling
+- Interactive Filters
+  
 ## About Me
 
 I am an aspiring Data Analyst currently developing projects in:
@@ -86,6 +103,5 @@ I am an aspiring Data Analyst currently developing projects in:
 - Excel
 - SQL
 - Power BI
-- Python
 
 My goal is to transform data into actionable business insights through data analysis and visualization.
