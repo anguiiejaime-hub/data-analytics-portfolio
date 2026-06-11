@@ -81,7 +81,9 @@ Business Questions Answered:
 
 - ## Power BI Dashboard
 
-Interactive sales dashboard built in Power BI.
+- ![Power BI Dashboard](powerbi-superstore-dashboard.png)
+
+An interactive sales dashboard built in Power BI.
 
 ### Key Insights
 - Sales performance by region
