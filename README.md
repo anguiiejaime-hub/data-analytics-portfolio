@@ -81,7 +81,7 @@ Business Questions Answered:
 
 - ## Power BI Dashboard
 
-![Power BI Dashboard](powerbi-superstore-dashboard.png)
+![Power BI Dashboard](superstore_sales_dashboard.pdf)
 
 An interactive sales dashboard built in Power BI.
 
