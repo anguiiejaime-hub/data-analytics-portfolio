@@ -19,7 +19,7 @@ I'm a Junior Data Analyst passionate about transforming data into business insig
 
 Interactive dashboard built in Excel.
 
-➡️ Open Project
+➡️ [Open Project](./Superstore-Excel-Dashboard)
 
 ---
 
@@ -27,7 +27,7 @@ Interactive dashboard built in Excel.
 
 Business analysis using PostgreSQL.
 
-➡️ Open Project
+➡️➡️ [Open Project](./Olist-SQL-Analysis)
 
 ---
 
